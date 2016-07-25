@@ -1,0 +1,8 @@
+[package]
+name = "inline_images"
+version = "0.1.0"
+authors = ["rlopezcc <rlopez@sophilabs.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+regex = "0.1"
