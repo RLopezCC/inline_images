@@ -4,7 +4,6 @@ extern crate rustc_serialize;
 use std::env;
 use std::io::{self, Read, Write};
 use std::fs::File;
-//use std::marker::Copy;
 use regex::Regex;
 
 use rustc_serialize::base64::{ToBase64, STANDARD};
